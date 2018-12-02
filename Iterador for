@@ -1,0 +1,13 @@
+#!/usr/bin/python
+#coding: utf-8 
+print(" Hola buen dia ")
+print("Ponga su nombre para contarle")
+#Este es un comentario de una linea
+#t=input() no recibe datos string para manipulacion solo por comillas
+t=raw_input()
+cont=0
+for s in t:
+     if (s=="a"):
+          cont=cont+1     
+          
+     print("encontramos la letra", s , "en ...", cont ) 
