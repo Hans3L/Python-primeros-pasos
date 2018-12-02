@@ -3,9 +3,7 @@
 print(" Hola buen dia ")
 print("Ponga su numero para contarle")
 i=input()
-#print("ponga su otro numero")
-#b=input()
-#c=a+b
+
 a=0
 while (a<i):
        a=a+1
