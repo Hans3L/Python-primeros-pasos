@@ -6,9 +6,7 @@ i=input()
 if (i<=10):
        print("no puede ser menor o igual de 10")     
 else:
-#print("ponga su otro numero")
-#b=input()
-#c=a+b
+
        a=0
 while (a<i):
        a=a+1
