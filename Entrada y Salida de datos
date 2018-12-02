@@ -1,0 +1,9 @@
+#env/python
+print(" Hola buen dia ")
+print("Ponga su numero para sumar")
+a=input()
+print("ponga su otro numero")
+b=input()
+c=a+b
+print("el resultado es ...")
+print(c)
